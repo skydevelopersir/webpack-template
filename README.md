@@ -1,6 +1,6 @@
 # Webpack Template
 
-This is just a basic template of webpack project for start.
+This is just a basic template of a web pack project to get started.
 
 
 ## Getting Started
